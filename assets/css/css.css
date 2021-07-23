@@ -357,10 +357,10 @@ playback timings (ms):
 
 
 
-body{
+.body{
     background-image: url('https://i.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.webp');
     background-size: cover;
-    
+    font-color: FFF;
     
     
     height: 100vh;
