@@ -11,9 +11,11 @@ font-size:15px;
 display:block;
 padding-top:4em;
 margin-top:10%;
+ color:#FFFFFF;
 }
 .intro {
 font-size: 3em;
+ color: #FFFFFF;
 }
 .intro em {
 color:#39FF14;
