@@ -24,7 +24,7 @@ font-family:monospace;
     
     background-image: url('https://i.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.webp');
     background-size: cover;
-    font-color: #FfffFF !important;
+    color: #FfffFF;
     
     
     height: 100vh;
