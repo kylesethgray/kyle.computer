@@ -16,11 +16,20 @@ margin-top:10%;
 font-size: 3em;
 }
 .intro em {
-color:#78BE20;
+color:#39FF14;
 }
 body{
 padding:10%;
 font-family:monospace;
+    
+    background-image: url('https://i.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.webp');
+    background-size: cover;
+    font-color: #FfffFF !important;
+    
+    
+    height: 100vh;
+    
+
 }
 
 **
@@ -331,39 +340,3 @@ font-family:monospace;
 }
  
 * @end *
-*
-     FILE ARCHIVED ON 11:18:00 Aug 24, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:22:27 Dec 10, 2018.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*
-*
-playback timings (ms):
-  LoadShardBlock: 161.307 (3)
-  esindex: 0.011
-  captures_list: 178.2
-  CDXLines.iter: 11.789 (3)
-  PetaboxLoader3.datanode: 87.275 (5)
-  exclusion.robots: 0.257
-  exclusion.robots.policy: 0.24
-  RedisCDXSource: 0.824
-  PetaboxLoader3.resolve: 148.169 (5)
-  load_resource: 84.855
-* 
-}
-
-
-
-
-.body{
-    background-image: url('https://i.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.webp');
-    background-size: cover;
-    font-color: FFF;
-    
-    
-    height: 100vh;
-    padding:0;
-    margin:0;
-}
