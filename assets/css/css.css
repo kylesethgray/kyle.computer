@@ -16,7 +16,11 @@ margin-top:10%;
 .intro {
 font-size: 3em;
  color: #FFFFFF;
- padding:10%;
+}
+.first {
+
+font-size: 2em;
+padding: 10%;
 }
 .intro em {
 color:#39FF14;
