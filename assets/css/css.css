@@ -16,12 +16,12 @@ margin-top:10%;
 .intro {
 font-size: 3em;
  color: #FFFFFF;
+ padding:10%;
 }
 .intro em {
 color:#39FF14;
 }
 body{
-padding:10%;
 font-family:monospace;
     
     background-image: url('https://i.giphy.com/media/3oEduOg2WVGU1atrFe/giphy.webp');
