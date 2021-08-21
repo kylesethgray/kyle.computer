@@ -13,6 +13,12 @@ padding-top:4em;
 margin-top:10%;
  color:#FFFFFF;
 }
+
+.name {
+color: #39FF14;
+font-size: 5em;
+padding-bottom: 1em;
+}
 .intro {
 font-size: 3em;
  color: #FFFFFF;
