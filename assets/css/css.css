@@ -23,6 +23,10 @@ padding-bottom: 1em;
 font-size: 3em;
  color: #FFFFFF;
 }
+.intro a {
+color:cyan;
+}
+
 .first {
 
 font-size: 2em;
